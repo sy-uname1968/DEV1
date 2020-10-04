@@ -1,0 +1,26 @@
+{
+  "ServiceName_1": {
+    "object_owner" : {
+    "roles": [
+               "GRANT_REMOTE_SOURCES"
+           ],
+      "schema_privileges":[
+        {
+          "reference":"S4_1709_ABAP",
+          "privileges_with_grant_option":["SELECT", "SELECT METADATA"]
+        }
+      ]
+    },
+    "application_user" : {
+    "roles": [
+               "GRANT_REMOTE_SOURCES"
+           ],
+      "schema_privileges":[
+        {
+          "reference":"S4_1709_ABAP",
+          "privileges_with_grant_option":["SELECT", "SELECT METADATA"]
+        }
+      ]
+    }
+  }
+}

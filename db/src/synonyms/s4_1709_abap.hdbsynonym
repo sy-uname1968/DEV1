@@ -1,0 +1,20 @@
+{
+  "DEV1.db.synonyms::VBAK": {
+    "target": {
+      "object": "VBAP - Sales Document: Item Data",
+      "schema": "S4_1709_ABAP"
+    }
+  },
+  "DEV1.db.synonyms::VBAP": {
+    "target": {
+      "object": "VBAP - Sales Document: Item Data",
+      "schema": "S4_1709_ABAP"
+    }
+  },
+  "DEV1.db.synonyms::DUMMY": {
+    "target": {
+      "object": "DUMMY",
+      "schema": "SYS"
+    }
+  }
+}
